@@ -190,7 +190,7 @@ SSR(p) = |f - g<sub>p</sub>|<sup>2</sup>
 ```text
 [![Текст к картинке](https://img.youtube.com/vi/YOUTUBE_ID_ВИДЕО/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_ID_ВИДЕО)
 ```
-Получить ID от YouTube видео просто. ID это последние символы в ссылке получаемой по нажатию кнопки "Поделиться". Например, полученная с YouTube ссыулка на видео имеет следующий вид `https://youtu.be/94HLyui6eVk?si=lEgmVEtMnxgfZjvj`, тогда ID `lEgmVEtMnxgfZjvj`.
+Получить ID от YouTube видео просто. ID это последние символы в ссылке получаемой по нажатию кнопки "Поделиться". Например, полученная с YouTube ссыулка на видео имеет следующий вид `https://youtu.be/94HLyui6eVk?si=lEgmVEtMnxgfZjvj`, тогда ID `94HLyui6eVk`.
 В итоге видео `[![Best job in the world!](https://img.youtube.com/vi/94HLyui6eVk/0.jpg)](https://www.youtube.com/watch?v=94HLyui6eVk)` будет выглядеть так:
 
 [![Best job in the world!](https://img.youtube.com/vi/94HLyui6eVk/0.jpg)](https://www.youtube.com/watch?v=94HLyui6eVk)
